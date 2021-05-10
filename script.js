@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
   var magic8Ball = {};
-  magic8Ball.listofanswers = ["It is certain.", "It is decidedly so.", "Without a doubt.", "Yes, definitely.", "You may rely on it.", "As I see it, yes.", "Most likely.", "Outlook good.", "Yes.", "Signs point to yes.", "Reply hazy, try again.", "Ask again later.", "Better not tell you now.", "Cannot predict now.", "Concentrate and ask again.", "Don't count on it.", "My reply is no.", "My sources say no.", "Outlook not so good.", "Very doubtful."];
+  magic8Ball.listofanswers = ["Ms Coates: largest tax payer in UK", "Owns Stoke City", "Founded 2020 with 12 staff", "In-game betting variety", "Wealthiest woman in the UK", "First degree in econometrics", "over 1,300 talented technology professionals", "For the company!", "Manchester, Malta, Stoke, New Jersey", "Signs point to yes.", "Reply hazy, try again.", "Ask again later.", "Better not tell you now.", "Cannot predict now.", "Concentrate and ask again.", "Don't count on it.", "My reply is no.", "My sources say no.", "Outlook not so good.", "Very doubtful.", "53 million customers in 20 languages"];
  
   magic8Ball.getAnswer = function(question)
   {
