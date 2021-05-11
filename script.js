@@ -1,7 +1,7 @@
 $(document).ready(function(){
   
   var magic8Ball = {};
-  magic8Ball.listofanswers = ["Ms Coates: largest tax payer in UK", "Owns Stoke City", "Founded 2000 with 12 staff", "In-game betting variety", "Wealthiest woman in the UK", "First degree in econometrics", "over 1,300 talented technology professionals", "For the company!", "Manchester, Malta, Stoke, New Jersey", "Signs point to yes.", "53 million customers in 20 languages"];
+  magic8Ball.listofanswers = ["Coates family are the largest tax payer in UK, 2 years in a row", "Owns Stoke City", "Founded in 2000 with 12 staff, now at over 5000", "A USP is the range of in-game betting variety", "Denise is the wealthiest woman in the UK", "Denise acheived a first degree in econometrics", "Hillside Technology has over 1,300 talented technology professionals", "For the company!", "Locations include Manchester, Malta, Stoke, New Jersey", "John Coates is joint CEO", "53 million customers in 20 languages"];
  
   magic8Ball.getAnswer = function(question)
   {
